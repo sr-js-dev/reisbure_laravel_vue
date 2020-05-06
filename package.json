@@ -16,7 +16,7 @@
     "axios": "^0.18.0",
     "bootstrap": "^4.0.0",
     "cross-env": "^5.1",
-    "jquery": "^3.3.1",
+    "jquery": "^3.5.0",
     "jquery-form-styler": "^2.0.2",
     "jquery-ui": "^1.12.1",
     "laravel-mix": "^2.0",
