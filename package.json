@@ -20,7 +20,7 @@
     "jquery-form-styler": "^2.0.2",
     "jquery-ui": "^1.12.1",
     "laravel-mix": "^2.0",
-    "lodash": "^4.17.4",
+    "lodash": "^4.17.19",
     "moment": "^2.20.1",
     "popper.js": "^1.14.3",
     "vee-validate": "^2.0.2",
